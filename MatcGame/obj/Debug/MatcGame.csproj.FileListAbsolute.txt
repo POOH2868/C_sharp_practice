@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\MatcGame\MatcGame\bin\Debug\MatcGame.exe.config
+C:\Users\Administrator\source\repos\MatcGame\MatcGame\bin\Debug\MatcGame.exe
+C:\Users\Administrator\source\repos\MatcGame\MatcGame\bin\Debug\MatcGame.pdb
+C:\Users\Administrator\source\repos\MatcGame\MatcGame\obj\Debug\MatcGame.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\MatcGame\MatcGame\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\MatcGame\MatcGame\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\MatcGame\MatcGame\obj\Debug\MatcGame_MarkupCompile.cache
+C:\Users\Administrator\source\repos\MatcGame\MatcGame\obj\Debug\MatcGame_MarkupCompile.lref
+C:\Users\Administrator\source\repos\MatcGame\MatcGame\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\MatcGame\MatcGame\obj\Debug\MatcGame.g.resources
+C:\Users\Administrator\source\repos\MatcGame\MatcGame\obj\Debug\MatcGame.Properties.Resources.resources
+C:\Users\Administrator\source\repos\MatcGame\MatcGame\obj\Debug\MatcGame.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MatcGame\MatcGame\obj\Debug\MatcGame.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MatcGame\MatcGame\obj\Debug\MatcGame.exe
+C:\Users\Administrator\source\repos\MatcGame\MatcGame\obj\Debug\MatcGame.pdb

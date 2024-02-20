@@ -1,0 +1,43 @@
+﻿<Window x:Class="MatcGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MatcGame"
+        mc:Ignorable="d"
+        Title="File" Height="347" Width="324">
+    <Grid x:Name="mainGrid" HorizontalAlignment="Left" Height="422" VerticalAlignment="Top" Width="400" Margin="0,0,-8,-3">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="8*"/>
+        </Grid.RowDefinitions>
+        <TextBlock x:Name="wrap" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="1" TextWrapping="Wrap" Text="?" Width="60" VerticalAlignment="Stretch" Margin="10,32,10,33"/>
+        <TextBlock x:Name="wrap_Copy" Grid.Column="0" HorizontalAlignment="Center" Grid.Row="0" TextWrapping="Wrap" Text="?" Width="60" VerticalAlignment="Stretch" Margin="10,32"/>
+        <TextBlock x:Name="wrap_Copy1" Grid.Column="0" HorizontalAlignment="Center" Grid.Row="1" TextWrapping="Wrap" Text="?" Width="60" VerticalAlignment="Stretch" Margin="10,32,10,33"/>
+        <TextBlock x:Name="wrap_Copy2" Grid.Column="0" HorizontalAlignment="Center" Grid.Row="2" TextWrapping="Wrap" Text="?" Width="60" VerticalAlignment="Stretch" Margin="10,33,10,31"/>
+        <TextBlock x:Name="wrap_Copy3" Grid.Column="0" HorizontalAlignment="Center" Grid.Row="3" TextWrapping="Wrap" Text="?" Width="60" VerticalAlignment="Stretch" Margin="10,33,10,32"/>
+        <TextBlock x:Name="wrap_Copy4" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="0" TextWrapping="Wrap" Text="?" Width="60" VerticalAlignment="Stretch" Margin="10,32"/>
+        <TextBlock x:Name="wrap_Copy5" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="2" TextWrapping="Wrap" Text="?" Width="60" VerticalAlignment="Stretch" Margin="10,33,10,31"/>
+        <TextBlock x:Name="wrap_Copy6" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="3" TextWrapping="Wrap" Text="?" Width="60" VerticalAlignment="Stretch" Margin="10,33,10,32"/>
+        <TextBlock x:Name="wrap_Copy7" Grid.Column="2" HorizontalAlignment="Center" Grid.Row="0" TextWrapping="Wrap" Text="?" Width="60" VerticalAlignment="Stretch" Margin="10,32"/>
+        <TextBlock x:Name="wrap_Copy8" Grid.Column="2" HorizontalAlignment="Center" Grid.Row="1" TextWrapping="Wrap" Text="?" Width="60" VerticalAlignment="Stretch" Margin="10,32,10,33"/>
+        <TextBlock x:Name="wrap_Copy9" Grid.Column="2" HorizontalAlignment="Center" Grid.Row="2" TextWrapping="Wrap" Text="?" Width="60" VerticalAlignment="Stretch" Margin="10,33,10,31"/>
+        <TextBlock x:Name="wrap_Copy10" Grid.Column="2" HorizontalAlignment="Center" Grid.Row="3" TextWrapping="Wrap" Text="?" Width="60" VerticalAlignment="Stretch" Margin="10,33,10,32"/>
+        <TextBlock x:Name="wrap_Copy11" Grid.Column="3" HorizontalAlignment="Center" Grid.Row="0" TextWrapping="Wrap" Text="?" Width="60" VerticalAlignment="Stretch" Margin="16,32,4,32"/>
+        <TextBlock x:Name="wrap_Copy12" Grid.Column="3" HorizontalAlignment="Center" Grid.Row="1" TextWrapping="Wrap" Text="?" Width="60" VerticalAlignment="Stretch" Margin="16,34,4,31"/>
+        <TextBlock x:Name="wrap_Copy13" Grid.Column="3" HorizontalAlignment="Center" Grid.Row="2" TextWrapping="Wrap" Text="?" Width="60" VerticalAlignment="Stretch" Margin="16,33,4,31"/>
+        <TextBlock x:Name="wrap_Copy14" Grid.Column="3" HorizontalAlignment="Center" Grid.Row="3" TextWrapping="Wrap" Text="?" Width="60" VerticalAlignment="Stretch" Margin="16,33,4,32"/>
+
+    </Grid>
+</Window>
